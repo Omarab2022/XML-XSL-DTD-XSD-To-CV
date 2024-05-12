@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE cv SYSTEM "cv.dtd">
+<?xml-stylesheet href="cv.xsl" type="text/xsl" ?>
+<cv xmlns="">
+   <entete>
+      <nom>ABARRA</nom>
+      <prenom>OMAR</prenom>
+      <dateDeNaisssance>19/08/2001</dateDeNaisssance>
+      <profile>ÉLÈVE INGÉNIEUR EN 4ÈME ANNÉE GÉNIE
+         INFORMATIQUE</profile>
+      <nationalite>Marocco,Tétouan,Martil</nationalite>
+      <telephone>0698609903</telephone>
+      <mail>abarraomar@gmail.com</mail>
+      <linkedin>https://www.linkedin.com/in/omar-abarra-0a7b73228/</linkedin>
+      <github>/Omarab2022</github>
+      <bio>
+         Élève ingénieur en 4ème année de génie informatique, Fort d'
+         une
+         expérience solide en full stack avec Angular et Spring Boot,
+         notamment en architecture Micro services et monolithic. Passionné
+         par le DevOps, je suis à la recherche d’un stage PFA à partir de juin
+         pour mettre en pratique mes compétences et acquérir une
+         expérience concrète avec ces technologies innovantes.
+      </bio>
+   </entete>
+   <Formations>
+      <diplome>
+         <annee>2020-Présent</annee>
+         <intitule>Cycle d’ingénieur, 2ème année: ENSA Tetouan</intitule>
+      </diplome>
+      <diplome>
+         <annee>2020-2022</annee>
+         <intitule>Deux années en cycle préparatoire à ENSA de Tétouan</intitule>
+      </diplome>
+      <diplome>
+         <annee>2018-2019</annee>
+         <intitule>Baccalauréat science Physique - Mention très bien: Lycée IMAM EL GHAZALI -Martil</intitule>
+      </diplome>
+   </Formations>
+   <stages>
+      <stage>
+         <date>Juin - Juill. 2023</date>
+         <titre>Stage d'initiation:</titre>
+         <description>Développement d'un site web pour la gestion des Stock</description>
+         <entreprise>NTT DATA </entreprise> <!-- Ajout de l'entreprise -->
+      </stage>
+   </stages>
+   
+   <projets>
+      <projet>
+         <date_projet>Janv. - Mars 2022</date_projet>
+         <titre_projet>Application Desktop : Services pour les étudiants</titre_projet>
+         <description_projet>
+            Étudiant demander des attestations en remplissant un formulaire.
+            L'
+            administrateur traite les demandes en les validant ou en les refusant, et un
+            document PDF est envoyé par e-mail aux clients pour les demandes validées.
+         </description_projet>
+         <lien_projet>https://github.com/Omarab2022/Gestion_Scolarite-Java_Swing_Mysql-</lien_projet>
+      </projet>
+      <projet>
+         <date_projet>Janv. - Mars. 2022</date_projet>
+         <titre_projet>Ecommerce Web Application de Gaming Shop</titre_projet>
+         <description_projet>
+            Boutique en ligne de jeux vidéo de pointe .Explorez, achetez et suivez vos jeux
+            facilement. Profitez d'économies avec des coupons exclusifs, créez une liste de
+            souhaits et suivez vos commandes en temps réel
+         </description_projet>
+         <lien_projet>https://github.com/Omarab2022/Spring_angular_gaming_shop</lien_projet>
+      </projet>
+      <projet>
+         <date_projet>Avril. - Mai. 2023</date_projet>
+         <titre_projet>Ecommerce Web Application de vêtements traditionnels
+            marocains</titre_projet>
+         <description_projet>
+            plateforme E-commerce dédiée aux vêtements traditionnels marocains, offrant
+            une expérience de shopping en ligne fluide grâce à une combinaison de Angular et
+            Spring Boot.
+         </description_projet>
+         <lien_projet>https://github.com/Omarab2022/Ecommerce_Spring_Angular</lien_projet>
+      </projet>
+      <projet>
+         <date_projet>Janv. - Mars 2024</date_projet>
+         <titre_projet>Real-Time-Chat-App (Spring-React-WebSockets)</titre_projet>
+         <description_projet>
+            Développer une application de chat en temps réel pour une communication fluide
+            entre utilisateurs, avec une interface conviviale, la messagerie instantanée, la
+            sécurité des données, l'
+            authentification des utilisateurs, et le partage de fichiers
+            multimédias
+         </description_projet>
+         <lien_projet>https://github.com/Omarab2022/Real-Time-Chat-App--Spring-React-WebSockets-</lien_projet>
+      </projet>
+   </projets>
+   <certificates>
+      <certificate>
+         <date_certificate>Mai. 2022</date_certificate>
+         <titre_certificate>IBM FrontEnd/Back-End Dev
+            Professional Certificate</titre_certificate>
+         <lien_certificate>https://drive.google.com/file/d/177pfJp27BvAsG3v3FkcWcVK6sQFBLN4U/view?usp=sharing</lien_certificate>
+      </certificate>
+      <certificate>
+         <date_certificate>Sept. 2023</date_certificate>
+         <titre_certificate>Responsive Web Design JavaScript
+            Algorithms and DataStructures.</titre_certificate>
+         <lien_certificate>https://drive.google.com/file/d/1ZpvL5mIm5ArehhxPpzobpiAhMcR9wJa-/view?usp=sharing</lien_certificate>
+      </certificate>
+      <certificate>
+         <date_certificate>Mai. 2024</date_certificate>
+         <titre_certificate>Database Programming with Plsql.</titre_certificate>
+         <lien_certificate>https://drive.google.com/file/d/1ZpvL5mIm5ArehhxPpzobpiAhMcR9wJa-/view?usp=sharing</lien_certificate>
+      </certificate>
+   </certificates>
+   <competences>
+      <competence>
+         <titre_competence>Langages de balisage :</titre_competence>
+         <description_competence>HTML5 , CSS</description_competence>
+      </competence>
+      <competence>
+         <titre_competence>Langages de programmation :</titre_competence>
+         <description_competence>PHP , JAVASCRIPT , TypeScript , C
+            JAVA</description_competence>
+      </competence>
+      <competence>
+         <titre_competence>Frameworks:</titre_competence>
+         <description_competence>Bootstrap , Tailwind css, Java Swing
+            React , Angular
+            JAVAEE(Servlets , JSP , JPA)
+            Spring(MVC,Data,
+            Security(JWT,Oauth2) , IoC,Boot
+            ,Microservices)</description_competence>
+      </competence>
+   </competences>
+   <langues>
+      <langue>
+         <intitule_langue>Arabe : </intitule_langue>
+         <niveau>Langue natale</niveau>
+      </langue>
+      <langue>
+         <intitule_langue>espagnol:</intitule_langue>
+         <niveau>A1</niveau>
+      </langue>
+      <langue>
+         <intitule_langue>Anglais:</intitule_langue>
+         <niveau>B2</niveau>
+      </langue>
+      <langue>
+         <intitule_langue>Français:</intitule_langue>
+         <niveau>B2</niveau>
+      </langue>
+   </langues>
+
+
+   <loisirs>
+      <loisir>Gaming</loisir>
+      <loisir>Photographie</loisir>
+      <loisir>Football</loisir>
+   </loisirs>
+</cv>
