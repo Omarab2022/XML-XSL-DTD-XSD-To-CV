@@ -13,7 +13,7 @@
             
             <title>
                <xsl:value-of select="cv/entete/prenom"/>
-               <xsl:text> </xsl:text> <!-- Ajout d'un espace -->
+               <xsl:text> </xsl:text> 
                <xsl:value-of select="cv/entete/nom"/>
             </title>
             
@@ -234,6 +234,7 @@
             </main>
       
             <script src="assets/js/html2pdf.bundle.min.js"></script>
+         
          
             <script src="assets/js/main.js"></script>
          </body>
